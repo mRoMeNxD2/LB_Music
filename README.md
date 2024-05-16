@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 LB Music 」──
+    ──「 Omen X Music 」──
 </h2>
 
 <p align="center">
